@@ -1,6 +1,6 @@
 # Spurious-minimizers-Fourier-sampling-optimization
 
-This repository contains the codes for the following paper *Spurious minimizers in non uniform Fourier sampling optimization* published in Inverse Problems (2022).
+This repository contains the codes for the paper *Spurious minimizers in non uniform Fourier sampling optimization* published in Inverse Problems (2022).
 
 ## Authors
 - [Alban Gossard](https://albangossard.com/)
